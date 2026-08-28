@@ -1,4 +1,5 @@
 // Number theory PPT is here:- https://docs.google.com/presentation/d/1dqJ0XJQ3LmD5SceVM1A-PVUa5CtIEGvaJWBU0E8iFEU/edit?slide=id.p40#slide=id.p40
+// Bit manipulation PPT :- https://docs.google.com/presentation/d/1TdTSfSYNBD3dQb7N0wMe7Ge-aylb6q09i58JzxRIs14/edit?slide=id.p1#slide=id.p1
 import java.util.Arrays;
 public class Number_theory {
     public static boolean[] sieve(int n){
