@@ -1,3 +1,4 @@
+// https://docs.google.com/presentation/d/10f4StnZO9kwdMrfRV8J-5cJh_9H_zKlCPfxKCdPSFGs/edit?slide=id.p1#slide=id.p1
 public class Sorting {
 
     public static void bubbleSort(int[] arr) {
@@ -96,7 +97,7 @@ public class Sorting {
         // we can use System.arraycopy to copy the elements from the temporary array t
         // to the original array arr, starting from index l. This is more efficient than
         // using a for loop to copy the elements one by one.
-        // System.arraycopy(t, 0, arr, l, t.length);
+        System.arraycopy(t, 0, arr, l, t.length);
         // for(int p=0;p<t.length;p++){
         // arr[l+p]=t[p];
         // }
