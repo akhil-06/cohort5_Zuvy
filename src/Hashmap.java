@@ -5,10 +5,10 @@ import java.util.HashMap;
 
 public class Hashmap {
     public static void main(String args[]) {
-        Map<Integer, String> students = new HashMap<>();
-        students.put(101, "Madhvi");
-        students.put(102, "Ayushi");
-        students.put(103, "Srikavya");
+        // Map<Integer, String> students = new HashMap<>();
+        // students.put(101, "Madhvi");
+        // students.put(102, "Ayushi");
+        // students.put(103, "Srikavya");
         // 1. entrySet
         // for(Map.Entry<Integer, String> e: students.entrySet()){
         // System.out.println(e.getKey() + " " + e.getValue());
